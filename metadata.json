@@ -1,0 +1,7 @@
+{
+  "name": "L'Élite Française",
+  "description": "A sophisticated French learning app focusing on B1-B2 level dictation, daily vocabulary building (15 words), and advanced sentence construction using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
